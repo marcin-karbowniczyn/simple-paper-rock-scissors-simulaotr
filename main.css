@@ -1,0 +1,57 @@
+h1 {
+  text-align: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.counter {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  bottom: 400px;
+  font-size: 60px;
+  font-family: Lato;
+}
+
+.container {
+  width: 80%;
+  height: 500px;
+  margin: auto;
+}
+
+.player1 {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+
+.player2 {
+  width: 50%;
+  float: right;
+  text-align: center;
+}
+
+.btn {
+  display: block;
+  margin: 10px auto;
+  font-family: Lato;
+  width: 85px;
+  text-align: center;
+}
+
+.btn-play {
+  position: relative;
+  bottom: 550px;
+}
+
+.btn-new {
+  position: relative;
+  bottom: 540px;
+}
+
+.points {
+  font-family: Lato;
+  font-size: 50px;
+}
